@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="InfoCollectPOC.MainPage">
+    <StackLayout Padding="20,40">
+        <!-- Place new controls here -->
+        <Label Text="ID: " x:Name="lblID"/>
+        <Label Text="IDIOM: " x:Name="lblIdiom"/>
+        <Label Text="MODEL: " x:Name="lblModel"/>
+        <Label Text="PLATFORM: " x:Name="lblPlatform"/>
+        <Label Text="VERSION: " x:Name="lblVersion"/>
+        <Label Text="VERSION NUMBER: " x:Name="lblVersionNum"/>
+        <Label Text="IS DEVICE? " x:Name="lblIsDevice"/>
+    </StackLayout>
+</ContentPage>
