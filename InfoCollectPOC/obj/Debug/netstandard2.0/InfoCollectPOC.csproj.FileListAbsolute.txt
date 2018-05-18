@@ -1,9 +1,0 @@
-/Projects/InfoCollectPOC/InfoCollectPOC/obj/Debug/netstandard2.0/InfoCollectPOC.csprojResolveAssemblyReference.cache
-/Projects/InfoCollectPOC/InfoCollectPOC/obj/Debug/netstandard2.0/InfoCollectPOC.csproj.CoreCompileInputs.cache
-/Projects/InfoCollectPOC/InfoCollectPOC/obj/Debug/netstandard2.0/InfoCollectPOC.AssemblyInfoInputs.cache
-/Projects/InfoCollectPOC/InfoCollectPOC/obj/Debug/netstandard2.0/InfoCollectPOC.AssemblyInfo.cs
-/Projects/InfoCollectPOC/InfoCollectPOC/bin/Debug/netstandard2.0/InfoCollectPOC.deps.json
-/Projects/InfoCollectPOC/InfoCollectPOC/bin/Debug/netstandard2.0/InfoCollectPOC.dll
-/Projects/InfoCollectPOC/InfoCollectPOC/bin/Debug/netstandard2.0/InfoCollectPOC.pdb
-/Projects/InfoCollectPOC/InfoCollectPOC/obj/Debug/netstandard2.0/InfoCollectPOC.dll
-/Projects/InfoCollectPOC/InfoCollectPOC/obj/Debug/netstandard2.0/InfoCollectPOC.pdb
